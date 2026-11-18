@@ -1,0 +1,11 @@
+[
+  {
+    "action": "append_reference_check",
+    "reference": "R0",
+    "at": "2025-03-02T00:00:00+08:00",
+    "effective_period_start": "2025-02-05T00:00:00+08:00",
+    "displacement_mm": 1.18,
+    "error_mm": 0.04,
+    "control": "stable-C0"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "normal_study_days": [
+    "2025-01-01",
+    "2025-01-26"
+  ],
+  "normal_diagnosis_days": [
+    "2025-01-26",
+    "2025-01-31"
+  ],
+  "monitor_days": [
+    "2025-01-31",
+    "2025-03-02"
+  ],
+  "budget_yuan": 7000,
+  "max_stop_work_hours": 5,
+  "saturated_direction": "S4 positive upper saturation; value >= limit",
+  "reference_note": "R0复测结果未在已交付数据里给出，未知移动不能先假定0"
+}

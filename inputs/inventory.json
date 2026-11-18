@@ -1,0 +1,73 @@
+{
+  "files": [
+    {
+      "path": "actions.json",
+      "bytes": 260,
+      "sha256": "ff01b671a9e8ff5927a609d83f4f875a0131a08183f47d1eab82c7ca71d974a3"
+    },
+    {
+      "path": "environment.parquet",
+      "bytes": 89947,
+      "sha256": "eb73ac7690a01cbd47fb0919bb12b44ca1019b4ae1415945a68be212917bbd9c",
+      "rows": 240
+    },
+    {
+      "path": "inspection_actions.parquet",
+      "bytes": 3470,
+      "sha256": "466ad4f7fc84c4454b35e3f5e17a31e7138cf704a162c46f9e2176e845221596",
+      "rows": 3
+    },
+    {
+      "path": "instruments.parquet",
+      "bytes": 3729,
+      "sha256": "5562d88af39d3e6a9d0eb4655a36159e92f81e8826ed435b4538fd2dd29eee7a",
+      "rows": 6
+    },
+    {
+      "path": "members.parquet",
+      "bytes": 1730,
+      "sha256": "1f1bf08d9d2321eb4dce595fe73a2a8e6f8eadd87940774d52595e720fa66fc7",
+      "rows": 3
+    },
+    {
+      "path": "movement-context.json",
+      "bytes": 436,
+      "sha256": "b4ab14da7f39226f072554d0adeb534e91c573c0e6b59c9eb03f9f340180718b"
+    },
+    {
+      "path": "readings.parquet",
+      "bytes": 623416,
+      "sha256": "9264ff7ba8080a8b1412d4c3da9e550212974e9b3d45fd2383955df50910ace1",
+      "rows": 1080
+    },
+    {
+      "path": "reference_checks.parquet",
+      "bytes": 2822,
+      "sha256": "8024beafa0dceb93b3c8c5b2801c26cec75c5a211478137fd2234bcc2fdbbdef",
+      "rows": 4
+    },
+    {
+      "path": "review_schedule.parquet",
+      "bytes": 1735,
+      "sha256": "b0066db77f0fb85dd0f9964e7f98fc245f5f20c04e67e188b632d261fd015cd8",
+      "rows": 5
+    },
+    {
+      "path": "seed.json",
+      "bytes": 224565,
+      "sha256": "603d594f77269940740c68ef5abfd8ed9a617178be0b5b886c9d8b9976544e10"
+    },
+    {
+      "path": "sensors.parquet",
+      "bytes": 4643,
+      "sha256": "9035934342b774e5fec6837790d11b758d95f10135e9fa9ab2fa6eade74eb6a3",
+      "rows": 5
+    },
+    {
+      "path": "vibrations.parquet",
+      "bytes": 1753,
+      "sha256": "d3d0957b0d3b8df0c3195346ac4bce2cfb120c416d51c380c3810f569b7dd876",
+      "rows": 2
+    }
+  ]
+}
