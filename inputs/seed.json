@@ -8285,7 +8285,7 @@
       "at": "2025-02-27T00:00:00+08:00",
       "value": null,
       "state": "saturated",
-      "limit": 0.6
+      "limit": 0.45
     },
     {
       "sensor": "S5",
@@ -8325,7 +8325,7 @@
       "at": "2025-02-27T06:00:00+08:00",
       "value": null,
       "state": "saturated",
-      "limit": 0.6
+      "limit": 0.45
     },
     {
       "sensor": "S1",
@@ -8357,7 +8357,7 @@
       "at": "2025-02-27T12:00:00+08:00",
       "value": null,
       "state": "saturated",
-      "limit": 0.6
+      "limit": 0.45
     },
     {
       "sensor": "S5",
@@ -8397,7 +8397,7 @@
       "at": "2025-02-27T18:00:00+08:00",
       "value": null,
       "state": "saturated",
-      "limit": 0.6
+      "limit": 0.45
     },
     {
       "sensor": "S1",
@@ -8429,7 +8429,7 @@
       "at": "2025-02-28T00:00:00+08:00",
       "value": null,
       "state": "saturated",
-      "limit": 0.6
+      "limit": 0.45
     },
     {
       "sensor": "S5",
@@ -8469,7 +8469,7 @@
       "at": "2025-02-28T06:00:00+08:00",
       "value": null,
       "state": "saturated",
-      "limit": 0.6
+      "limit": 0.45
     },
     {
       "sensor": "S1",
@@ -8501,7 +8501,7 @@
       "at": "2025-02-28T12:00:00+08:00",
       "value": null,
       "state": "saturated",
-      "limit": 0.6
+      "limit": 0.45
     },
     {
       "sensor": "S5",
@@ -8541,7 +8541,7 @@
       "at": "2025-02-28T18:00:00+08:00",
       "value": null,
       "state": "saturated",
-      "limit": 0.6
+      "limit": 0.45
     },
     {
       "sensor": "S1",
@@ -8573,7 +8573,7 @@
       "at": "2025-03-01T00:00:00+08:00",
       "value": null,
       "state": "saturated",
-      "limit": 0.6
+      "limit": 0.45
     },
     {
       "sensor": "S5",
@@ -8613,7 +8613,7 @@
       "at": "2025-03-01T06:00:00+08:00",
       "value": null,
       "state": "saturated",
-      "limit": 0.6
+      "limit": 0.45
     },
     {
       "sensor": "S1",
@@ -8645,7 +8645,7 @@
       "at": "2025-03-01T12:00:00+08:00",
       "value": null,
       "state": "saturated",
-      "limit": 0.6
+      "limit": 0.45
     },
     {
       "sensor": "S5",
@@ -8685,7 +8685,7 @@
       "at": "2025-03-01T18:00:00+08:00",
       "value": null,
       "state": "saturated",
-      "limit": 0.6
+      "limit": 0.45
     }
   ],
   "reference_checks": [

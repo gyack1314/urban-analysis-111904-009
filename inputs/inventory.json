@@ -37,7 +37,7 @@
     {
       "path": "readings.parquet",
       "bytes": 623416,
-      "sha256": "9264ff7ba8080a8b1412d4c3da9e550212974e9b3d45fd2383955df50910ace1",
+      "sha256": "a3a56600944dac31a94e9ac1a62e475dc69aab9f96c00072ec5ad8803b38887c",
       "rows": 1080
     },
     {
@@ -54,8 +54,8 @@
     },
     {
       "path": "seed.json",
-      "bytes": 224565,
-      "sha256": "603d594f77269940740c68ef5abfd8ed9a617178be0b5b886c9d8b9976544e10"
+      "bytes": 224577,
+      "sha256": "4502dc0a43f7330748cc99bebe21a34bea6bb569e6b18e63ce616413e213ccff"
     },
     {
       "path": "sensors.parquet",
